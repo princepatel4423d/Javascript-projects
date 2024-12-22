@@ -54,7 +54,9 @@ Contributions are welcome! If you have a project idea or an improvement for an e
 ## Contact
 Feel free to connect with us on social media:
 
-
+-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/princepatel4423d) 
+-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_prince.patel7_) 
+-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princepatel4423d)
 
 ## License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
