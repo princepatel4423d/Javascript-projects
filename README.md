@@ -1,4 +1,4 @@
-# JavaScript Projects
+# Javascript Projects
 
 This repository contains three categories of JavaScript projects designed to cater to different levels of expertise and use cases. Each category includes unique examples to help you learn, practice, and improve your JavaScript skills.
 
@@ -37,11 +37,11 @@ This category includes beginner-friendly projects that focus on basic JavaScript
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/princepatel4423d/JavaScript-Projects.git
+   git clone https://github.com/princepatel4423d/Javascript-projects.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd JavaScript-Projects
+   cd Javascript-projects
    ```
 3. Open the desired project folder and start coding!
 
