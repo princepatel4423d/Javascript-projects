@@ -2,6 +2,8 @@
 
 This repository contains three categories of JavaScript projects designed to cater to different levels of expertise and use cases. Each category includes unique examples to help you learn, practice, and improve your JavaScript skills.
 
+![download](https://github.com/user-attachments/assets/d66772a8-806d-4687-b183-e5936699f674)
+
 ## Categories
 
 ### 1. API-Based JS Projects
